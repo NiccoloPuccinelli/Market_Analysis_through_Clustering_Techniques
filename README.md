@@ -4,4 +4,4 @@ Together with my colleagues **Lorenzo Bruni** and **Diego Bartoli Geijo**, we ar
 
 The language used is **Python**.
 
-[This project will be complete by October]
+[Project currently under examination]
