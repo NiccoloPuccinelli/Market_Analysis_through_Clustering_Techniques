@@ -4,4 +4,4 @@ Together with my colleagues **Lorenzo Bruni** and **Diego Bartoli Geijo**, we ar
 
 The language used is **Python**.
 
-[Project currently under examination]
+Final grade: **30**.
